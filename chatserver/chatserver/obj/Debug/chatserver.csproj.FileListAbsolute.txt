@@ -1,0 +1,8 @@
+C:\Users\jmfl\source\repos\chatserver\chatserver\bin\Debug\chatserver.exe.config
+C:\Users\jmfl\source\repos\chatserver\chatserver\bin\Debug\chatserver.exe
+C:\Users\jmfl\source\repos\chatserver\chatserver\bin\Debug\chatserver.pdb
+C:\Users\jmfl\source\repos\chatserver\chatserver\obj\Debug\chatserver.csproj.AssemblyReference.cache
+C:\Users\jmfl\source\repos\chatserver\chatserver\obj\Debug\chatserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmfl\source\repos\chatserver\chatserver\obj\Debug\chatserver.csproj.CoreCompileInputs.cache
+C:\Users\jmfl\source\repos\chatserver\chatserver\obj\Debug\chatserver.exe
+C:\Users\jmfl\source\repos\chatserver\chatserver\obj\Debug\chatserver.pdb
